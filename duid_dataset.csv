@@ -1,798 +1,798 @@
-duid,name
-415,BIKETOWN Station Status
-437,San Antonio  Data (No State Attributes)
-1039,c
-553,Air Traffic Cargo Statistics
-627,244 issue
-530,dataset for testing
-785,Taxi Trips 2015
-734,Name of Dataset
-735,Name of Dataset
-513,Dataset_2020-08-17
-767,Test Dataset xlsx
-786,Test
-655,cache data 238
-443,a new data
-179,Free Open Data (Singapore SpeedBand)
-501,hook api data
-555,Aircraft Noise Complaint Data
-367,Greenwave Bicycle Signals
-733,hook api data
-510,Test data
-789,Test
-502,countries geojson  data
-577,ap-419
-787,Test
-516,hookup data
-788,Test
-971,file name japan_90f00e27-5d0f-4f76-a529-821b01dbccb0
-675,Chicago - System Information - List of 'L' Stops
-1043,defining data config after url up
-534,Dataset_2020-08-18
-19,Pit Stops and Hand Washing Stations (San Francisco)
-744,Test Private Dataset csv
-532,service center matrices
-623,test S1
-1044,config change
-414,Dataset_2020-07-16 Gps Data
-531,check shceduler
-503,countries geojson  data
-526,new daase
-186,BicycleParkingv2
-67,TEST API PULL fuel-stations
-628,invalid rows issue
-624,test S2
-969,file name japan_71d5a127-689d-4d37-a176-8bce9167e069
-706,BIKETOWN Free Bike Status
-507,countries geojson  data
-505,a new datase
-508,countries geojson  data
-509,countries geojson  data
-319,GED Plus Locations
-813,Test Private Dataset geojson
-580,test hookup api
-440,San Antonio  Data (Test Zenrin)
-930,Chicago - Taxi Trips 2013
-759,Dataset_2020-09-03
-533,Dataset_2020-08-18
-535,Dataset NoCache
-601,large dataset
-209,GPS2
-208,GPS
-519,no cache data
-687,E-Scooter Trips - 2019 Pilot
-602,403 data
-741,Test data upload
-506,countries geojson  data
-970,file name japan_71d5a127-689d-4d37-a176-8bce9167e069
-849,Dataset_2020-08-28
-517,hook up data cache
-581,dataset sample
-600,chec dataset
-931,Dataset_2020-09-18
-520,ap-418
-521,Dataset_2020-08-17
-477,Aircraft Parking Location Inventory at SFO
-269,Australia Sales
-567,San Francisco - 2010 Customer Survey
-511,countries geojson  data
-149,Free open data (Visible to SilentNoise) - Private
-569,Painted Safety Zones
-512,geojson data set
-536,test d34
-551,"San Francisco - Screening Checkpoint Satisfaction May, 2019"
-742,Demo Tokio Marine Tesla Quote
-598,loom dataset
-806,Hookup Dataset with No Cache
-981,Test Dataset json
-715,drag and drop
-264,ci/cd test TU
-267,Canada_Sales
-266,Flight Data_After
-265,Flight Dataset_Before
-589,Test Dataset csv
-958,file name japan_7e0b092a-73c5-41fd-bb69-a0f41dbedb40
-582,Dataset_2020-08-19
-274,Tokyo Metro Hibiya Facilities
-823,Test Private Dataset geojson
-989,Dataset_2020-09-25
-560,SFO Ground Transport Trip Counts By Month and Permit Type
-919,Test Private Dataset geojson
-390,forecasting dataset of NOAA
-630,Test Dataset csv
-583,no cache new dataset
-537,external api data
-960,a supe
-728,Dataset_2020-08-31
-801,Tokyo DOCOMO
-371,Vehicle Restrictions
-527,incremental dataset
-538,no cache data
-593,Test Dataset geojson
-591,Test Dataset xlsx
-631,Hookup Dataset with No Cache
-829,Test Private Dataset csv
-622,smoke test 3
-608,San Francisco - Ground Transport Trip Counts By Month and Permit Type
-632,Hookup Dataset with Cache
-920,geojson data
-590,Test Dataset TSV
-729,negative data sign
-523,Test data
-363,DBI Plumbing Inspection Division Districts
-633,Test Dataset csv
-634,Hookup Dataset with No Cache
-635,Hookup Dataset with Cache
-637,Hookup Dataset with No Cache
-148,Free open data (Visible to SilentNoise) - NonPrivate
-592,Test Dataset json
-356,Vision Zero Base Report
-638,Hookup Dataset with Cache
-640,Test Dataset TSV
-641,Test Dataset xlsx
-642,Test Dataset json
-643,Test Dataset geojson
-644,Test Private Dataset geojson
-639,Test Private Dataset csv
-584,scheduler data
-354,NYC Parks Monuments
-353,"New York City Population by Borough, 2010- 2040"
-945,Test Dataset json
-278,Odakyu Shinjuku Facilities
-636,Test Dataset csv
-768,Test Dataset json
-915,Test Dataset TSV
-146,Free open data (Not visible to anyone) - Private
-943,Test Dataset TSV
-334,2018 Yellow Taxi Trip Data
-333,016 Green Taxi Trip Data
-646,Hookup Dataset with No Cache
-760,text dataset
-330,2009 Yellow Taxi Trip Data
-327,DCLA Cultural Institutions Group Funding
-916,Test Dataset xlsx
-525,Update the existing dataset
-448,2013 SFO Customer Survey
-912,Hookup Dataset with No Cache
-323,Water Consumption In The New York City
-320,In-Service Alarm Box Locations
-1012,Test Dataset xlsx
-156,Free open data (Public) - Private Access
-557,San Francisco - 2017 Customer Survey
-318,Center & Service Locations
-550,SFMTA Projects - Polygons
-1069,Chicago - Transportation Network Providers - Trips 2019
-982,Test Dataset geojson
-585,test 6 no cache demo
-222,Parking Meters (US Cities)
-561,Stop Signs
-661,Chicago - Relocated Vehicles
-343,Civil Service List Certification
-984,cache data
-656,test 1.1 cache
-1040,a
-586,test D6
-301,Parks Trails
-975,Test Dataset csv
-951,San Francisco - DPW Maintained Roadway Structures
-649,Test Dataset TSV
-980,Test Dataset xlsx
-714,SF Accident Data
-629,Test 1
-674,url data
-556,San Francisco - Bicycle Parking
-707,standard dataset
-563,SFMTA Bikeway Network
-587,Test D6 PK
-811,Test Dataset json
-651,Test Dataset json
-594,Smoke Test_1 data
-283,NYPD Complaint Data Historic
-281,Medallion Drivers - Active
-886,hook data with cache
-595,Test Dataset 7
-976,Hookup Dataset with No Cache
-196,Car Accidents (US Cities)
-776,Test Dataset xlsx
-382,Earlwood_Air_Data_17_18
-486,San Francisco - MTA Managed Off-street Parking
-198,Pollutant Standards Index (PSI)
-596,hook up data
-625,smoke 6
-614,San Fracisco - Meter Inventory
-616,Chicago - Street Names
-652,Test Dataset geojson
-324,2015 Street Tree Census - Tree Data
-268,Germany Sales
-469,Bike Volume - Manual Counts
-468,Bike Volume - Manual Counts
-529,scheduler dataset
-626,lat long
-1042,locked api
-467,Bike Volume - Manual Counts
-312,Intercity Bus Stop Permits
-465,Bike Volume - Manual Counts
-464,Bike Volume - Manual Counts
-463,Bike Volume - Manual Counts
-462,Bike Volume - Manual Counts
-983,Test Private Dataset geojson
-352,taxi data + parking data
-562,Stop Signs
-650,Test Dataset xlsx
-157,Free open data (Visible to none) - Obsolete
-940,Hookup Dataset with No Cache
-504,Sandbox Regression
-917,Test Dataset json
-518,A new service data
-307,ServiceCentreMetrics 
-773,Hookup Dataset with Cache
-365,Form 700 comments
-321,New York City Locations Providing Seasonal Flu Vaccinations
-8,"EV Charging Stations (Connecticut, USA)"
-385,atlas2013_dadosbrutos_pt com lat long e altura
-444,San Francisco - Air Traffic Passenger Statistics
-766,Test Dataset TSV
-653,Test Private Dataset geojson
-128,Tokyo Bus Station
-597,test 6
-313,Highway Travel Permit- Single Use
-588,dataset no cache no primary
-903,San Francisco Police Department (SFPD) Incidents Reports
-481,Equity Strategy Neighborhoods
-476,Speed Limits
-524,Dataset 6
-445,San Francisco - Air Traffic Landings Statistics
-344,New York  Data
-676,Chicago - Ridership - Annual Boarding Totals
-364,ESNCAG - Boundary File
-853,Taxi Trips 2015
-378,Streets – Active and Retired
-3,San Francisco Traffic Lights
-599,csv standard data
-374,Fire Violations
-370,Parks Alliance CPSI (27 sites)
-369,Traffic Circles
-558,San Francisco - 2012 Customer Survey
-235,Verify BicycleParking
-824,BorderWaitTimes
-918,Test Dataset geojson
-854,Taxi Trips 2015 NOT READY
-368,Assets Maintained by the Recreation and Parks Department
-362,DBI Electrical Inspection Division Districts
-648,Test Private Dataset csv
-360,"SFO Screening Checkpoint Satisfaction October, 2019"
-225,Pollutant Standards Index (PSI)
-224,BicycleParkingv2
-221,BicycleParkingv2
-220,BicycleParkingv2
-217,BicycleParkingv2
-961,a supe
-359,Hayward M7.0 Earthquake Scenario
-215,BicycleParkingv2
-214,BicycleParkingv2
-213,BicycleParkingv2
-207,BicycleParkingv2
-206,BicycleParkingv2
-205,BicycleParkingv2
-204,BicycleParkingv2
-203,Air Temperature across Singapore
-202,Relative Humidity across Singapore
-187,TEST Speedband
-817,Hookup Dataset with Cache
-361,MTA Fuel Usage
-200,Rainfall across Singapore
-357,Vision Zero Base Report
-1070,Chicago - Transportation Network Providers - Trips 2018
-805,Test Dataset csv
-736,Test
-484,Traffic Circles
-355,DOB NOW: Electrical Permit Applications
-351,yellow and green taxi data
-763,Hookup Dataset with No Cache
-645,Test Dataset csv
-779,Test Private Dataset geojson
-833,Test Dataset geojson
-350,Parking Violations Issued - Fiscal Year 2020
-346,Motor Vehicle Collisions - Crashes
-279,LADOT Parking Meter Occupancy (Real Time)
-438,San Antonio Ref Markers
-514,Dataset_2020-08-17
-832,Test Dataset json
-724,Dataset_2020-08-29
-259,This is sparta
-258,This is wonderful begining
-169,Reupload SFPD 2019 Incidents
-716,Sample Driving Trip 2019-11-27
-777,Test Dataset json
-615,San Francisco - Meter Policies
-647,Hookup Dataset with Cache
-578,Test Ingestion
-145,Free open data (Not visible to anyone) - NonPrivate
-568,SFO Permitted Ground Transport Companies
-703,Dataset_2020-08-25
-699,Dataset_2020-08-24
-774,Test Private Dataset csv
-570,SFMTA Bikeway Network Point Features
-325,Energy and Water Data Disclosure for Local Law 84 2018 Environment
-303,Los Angeles International Airport (LAX) - Closures
-574,Test2
-573,Test
-522,scheduler json data
-657,Truck parking locations (Geotab)
-830,Test Dataset TSV
-302,2016 Green Taxi Trip Data
-317,Open Streets Locations
-708,Dataset_2020-08-26
-658,Test Dataset AP-430
-607,San Francisco - Stop Signs
-376,Pit Stop Locations
-314,LA City Events
-659,Cell Coverage Dark Spots (Geotab)
-572,Greenwave Bicycle Signals
-345,Earthquake in Turkey
-304,Historical Medallion Drivers – Passenger Assistance Trained 2018
-528,check scheduler
-300,2016 Green Taxi Trip Data
-299,Real-Time Traffic Speed Data
-612,Parking regulations (except non-metered color curb)
-166,TEST WITHOUT FORMAT
-298,TLC New Driver Application Status
-297,Transportation Sites
-474,Parking regulations (except non-metered color curb)
-575,Test2
-576,test
-296,Performance Metrics - Transportation - Pothole Repair
-564,San Francisco - Air Traffic Cargo Statistics
-446,2011 SFO Customer Survey
-828,Hookup Dataset with Cache
-161,Free open data (Public) - Obsolete
-162,Open Data (Public)
-771,Test Dataset csv
-439,Test Upload
-436,Test upload
-435,Dataset_2020-08-06 try
-470,Meter Policies
-295,Transportation Network Providers - Trips
-294,"Current Employee Names, Salaries, and Position Titles"
-804,hook data every ingestion
-953,Taxi Trips - 2015 reup
-275,Tokyo Metro Ginza Facilities
-293,Housing Inventories 2005 to 2018
-292,City Facilities
-973,BorderWaitTimes new 
-229,Rainfall across Singapore
-277,Keikyu Shinagawa Facilities
-276,Tokyo Metro Higashiginza Facilities
-291,San Francisco Plant Finder Data
-290,Existing Buildings Energy Performance Ordinance Report
-228,Taxi Availability
-273,Toei Otemachi Facilities
-272,Tobu Ikebukuro Facilities
-271,Tokyo Metro Shinjuku Facilities
-150,Free open data (Public) - Open License
-239,Pollutant Standards Index (PSI)
-238,Air Temperature across Singapore
-236,TrafficSpeedBandsv2
-234,Verify TrafficSpeedBands
-233,Carpark Availability
-237,Relative Humidity across Singapore
-232,Pollutant Standards Index (PSI)
-231,Air Temperature across Singapore
-230,Relative Humidity across Singapore
-227,TrafficSpeedBandsv2
-226,BicycleParkingv2
-223,TrafficSpeedBandsv2
-216,TrafficSpeedBandsv2
-199,Pollutant Standards Index (PSI)
-190,Pollutant Standards Index (PSI)
-189,BicycleParkingv2
-928,Dataset_2020-09-18
-178,TEST NEW FORMAT
-177,TEST NEW FORMAT
-176,TEST NEW FORMAT
-172,TEST NEW FORMAT
-171,TEST NEW FORMAT
-739,Dataset_2020-09-01
-579,primary key
-778,Test Dataset geojson
-158,Free open data (Visible to SilentNoise) - Obsolete
-775,Test Dataset TSV
-289,"Energy Benchmarking, San Francisco Municipal Buildings"
-483,Bicycle Greenwave Streets
-288,Registered Business Locations - San Francisco
-845,check tuning
-704,Dataset_2020-08-25
-847,Testing Deployment
-907,"San Francisco Stormwater inlets, drains and catch basins"
-287,Traffic Volume Counts (2012-2013)
-284,Water Consumption In The New York City
-282,Street Hail Livery (SHL) Drivers
-328,Intersection Metrics
-315,LinkNYC Locations
-387,austin_bikeshare_stations
-909,California - Precipitation
-311,IntersectionMetrics
-772,Hookup Dataset with No Cache
-306,FuelStationMetrics
-515,Dataset_2020-08-17
-322,Capacity Project Site Location
-846,sample_data
-375,Aircraft Noise Complaint Data
-366,Crossing Guard Intersections
-332,BorderWaitTimes
-326,Value of Energy Cost Savings Program Savings for Businesses - FY2019
-316,Directory Of Homebase Locations
-308,TruckParkingLocations
-310,HazardousDrivingAreas
-309,CellCoverageDarkSpots
-305,BorderWaitTimes
-827,Hookup Dataset with No Cache
-654,csv data
-1013,Test Dataset json
-780,csv datad
-673,Chicago - Transportation Department Permits - Street Closures
-807,Hookup Dataset with Cache
-954,Taxi Trips - 2014 reup
-709,Dataset_2020-08-26
-731,sample_data
-1035,b
-781,Dataset_2020-09-03
-701,Dataset_2020-08-25
-848,Test data
-992,a
-1021,San Francisco - Block Faces
-730,Remove invalid
-613,San Francisco - [Testing] MTA Enforced Temporary Tow Zones
-690,Chicago - Performance - Unscheduled Days Off
-670,Chicago - Bike Racks
-389,FourSquare - NYC and Tokyo Check-ins
-422,Street Incidents in SF
-471,San Francisco - Air Carrier Runway Use
-743,Dataset_2020-09-01
-808,Test Private Dataset csv
-1045,250+MB data
-754,Test Private Dataset geojson
-737,test
-384,air-quality-monitoring-sites-summary
-782,Dataset_2020-09-03
-702,Test Data Upload
-752,Test Dataset json
-710,Dataset_2020-08-27
-921,San Francisco - City Congestion
-719,Test data
-749,Test Private Dataset csv
-783,test
-923,Dataset_2020-09-18
-451,San Francisco - Gate and Stand Assignment Information
-711,288 geospatial dataset
-1010,Test Private Dataset csv
-565,San Francisco - Aircraft Noise Complaint Data
-697,geojson data
-1015,Test Private Dataset geojson
-790,Accident Data
-698,Dataset_2020-08-24
-812,Test Dataset geojson
-696,zip file data
-1005,San Francisco - Parking Meters
-452,San Francisco - Metered motorcycle spaces
-825,Dataset_2020-09-09
-664,Chicago - Parking Permit Zones
-1046,190+MB
-684,Divvy Bicycle Stations - Historical
-620,Chicago - Red Light Camera Violations
-700,JR East Train Information
-453,San Francisco - MTA-Enforced Temporary Tow Zones
-720,Dataset_2020-08-28
-717,Dataset_2020-08-28
-726,test
-721,Dataset_2020-08-28
-732,test
-926,San Francisco COVID-19 Cases and Deaths Summarized by Geography
-383,LADOT Parking Meter Occupancy (Historical)
-1036,b
-487,San Francisco - Airport Monthly Utility Usage And Revenue
-219,CAL FIRE
-727,data tuning
-843,Test Dataset geojson
-856,Transportation Network Providers - Drivers
-566,San Francisco - Travel Decision Survey 2019
-748,Hookup Dataset with Cache
-712,sample
-722,remove invalid data standard
-713,hook data
-858,Dig Ticket Notifications
-723,Current Wildfire Incidents (USA)
-746,Test Dataset csv
-753,Test Dataset geojson
-844,Test Private Dataset geojson
-755,Taxi Trips 2015
-761,marketplace data
-902,Dataset_2020-09-16
-826,Test Dataset csv
-718,testSandbox
-922,US West 9 - Commercial Traffic Analysis
-80,Alternative Fuel Stations
-809,Test Dataset TSV
-1047,515k 230MB data
-745,Test Private Dataset geojson
-751,Test Dataset xlsx
-617,Chicago - Towed Vehicles
-956,borderWait dat
-750,Test Dataset TSV
-814,BorderWaitTimes
-747,Hookup Dataset with No Cache
-791,Dataset_2020-09-04
-669,Chicago Traffic Tracker - Congestion Estimates by Regions
-740,Dataset_2020-09-01
-816,Hookup Dataset with No Cache
-447,San Francisco - Meter Operating Schedules
-794,Dataset_2020-09-04
-764,Hookup Dataset with Cache
-839,Test Private Dataset csv
-1007,Test Dataset csv
-1014,Test Dataset geojson
-819,Test Dataset TSV
-820,Test Dataset xlsx
-821,Test Dataset json
-913,Hookup Dataset with Cache
-815,Test Dataset csv
-795,override data
-818,Test Private Dataset csv
-842,Test Dataset json
-899,Dataset_2020-09-16
-769,Test Dataset geojson
-793,Dataset_2020-09-04
-1011,Test Dataset TSV
-454,San Francisco - Parking Meters
-1009,Hookup Dataset with Cache
-765,Test Private Dataset csv
-836,Test Dataset csv
-875,Dataset_2020-09-14
-851,Taxi Trips 2015
-859,Dig Ticket Notifications
-762,Test Dataset csv
-672,Chicago - Ridership - Avg. Weekday Bus Stop Boardings in October 2012
-693,Chicago - Transportation Department Permits - Block Party - Current and Future
-796,Dataset_2020-09-04
-725,CAL FIRE Incidents (Daily Update)
-1002,San Francisco - Transit Only Lanes
-957,file name_02370402-7d66-41d0-b7c6-43f54de22a7f
-1008,Hookup Dataset with No Cache
-784,upload data
-738,Dataset_2020-09-01
-876,response data
-810,Test Dataset xlsx
-932,a new datat
-671,Chicago - Traffic Crashes - Vehicles
-802,hook data
-770,Test Private Dataset geojson
-822,Test Dataset geojson
-878,Hookup Dataset with No Cache
-756,Test PULL BIG
-797,Dataset_2020-09-04
-914,Test Private Dataset csv
-881,Test Dataset TSV
-662,Chicago - Speed Camera Violations
-757,Street Incidents in SF
-479,San Francisco - On-street Carshare Parking
-799,SF Electricity
-852,Taxi Trips 2015
-758,Dataset_2020-09-03
-798,Dataset_2020-09-04
-466,San Francisco - Bike Volume Manual Counts
-800,test
-910,California - Temperature
-803,new data hook data
-683,Chicago - Ridership - Bus Routes - Monthly Day-Type Averages & Totals
-990,Traffic Dataset
-450,JR East Train status information
-927,San Francisco COVID-19 Testing Locations
-929,US West 9 - Commercial Traffic Analysis
-834,Test Private Dataset geojson
-667,Chicago - Ridership - Bus Routes - Daily Totals by Route
-841,Test Dataset xlsx
-840,Test Dataset TSV
-838,Hookup Dataset with Cache
-837,Hookup Dataset with No Cache
-955,Dataset_2020-09-21
-831,Test Dataset xlsx
-883,Test Dataset json
-606,San Francisco - Permitted Ground Transport Companies
-835,test this dataset
-860,Taxi Trips - 2013
-543,Parking Management Districts
-478,Rush Hour Routes
-1048,San Francisco - On-street Parking based on Parking Census
-4,SFPD Incidents Reports 2019
-861,Dataset_2020-09-04
-25,COVID-19 (2019-nCoV) Data
-864,Dataset_2020-09-04
-882,Test Dataset xlsx
-863,Dataset_2020-09-04
-933,Dataset_2020-09-19
-880,Test Private Dataset csv
-81,Daily precipitation in Japan
-280,Station information of JR East
-472,Meter Inventory
-974,new data
-884,Test Dataset geojson
-792,Dataset_2020-09-04
-993,San Francisco - Parking regulations (except non-metered color curb)
-935,file name_02370402-7d66-41d0-b7c6-43f54de22a7f
-1049,San Francisco - Block Faces
-475,Transit Only Lanes
-934,file name_02370402-7d66-41d0-b7c6-43f54de22a7f
-862,Dataset_2020-09-04
-946,Test Dataset geojson
-936,Japan data_422b108e-852c-49cc-9776-5b86676b5982
-865,a new daa
-950,Dataset_2020-09-19
-665,Chicago - Roadway Construction Moratoriums
-866,hook api data
-618,Chicago- List of CTA Datasets
-925,San Francisco COVID-19 Tests
-1037,Test Dataset csv
-857,Transportation Network Providers - Vehicles
-879,Hookup Dataset with Cache
-937,Test data_848e069f-2e44-4675-8282-1f167ffee0ae
-991,Road Object
-888,a new dataset
-877,Test Dataset csv
-867,hook api data
-889,a new dataset
-890,a new dataset
-485,San Francisco - Bicycle Loop Counters
-1038,hook up no cache
-891,a new dataset
-459,San Francisco - Traffic Signals
-892,a new dataset
-986,Dataset_2020-09-24
-449,San Francisco - Meter Rate Schedules
-1066,Chicago - Taxi Trips 2015
-456,Muni Simple Routes
-893,a new dataset
-894,a new dataset
-885,Test Private Dataset geojson
-897,sandbox tuning
-694,Chicago - Dig Tickets
-949,Chicago - Taxi Trips - 2013
-542,San Fracisco - Aircraft Parking Activity Records
-850,None
-619,Chicago - Public Right-of-Way Use Permits - Historical
-457,San Francisco - Noise Exceedance Rating
-908,California - Cell Coverage Dark Spots
-1023,Test data explore
-458,San Francisco - Muni Driver Reported Transit Only Lane Violations
-695,Bike Routes (Deprecated February 2020)
-895,Drag and drop
-906,San Francisco Street Tree List
-660,Chicago - Ridership - 'L' Station Entries - Daily Totals
-941,Hookup Dataset with Cache
-900,Drag data
-962,a supe
-460,San Francisco - Late Night Preferential Runway Use
-552,San Francisco - MTA Fuel Usage
-868,Test data Tuning
-904,San Francisco Building Permits
-869,Test Private Dataset geojson
-871,Test Private Dataset geojson
-942,Test Private Dataset csv
-610,Bicycle Greenwave Streets
-554,San Francisco - 2011 Customer Survey
-855,Divvy Bicycle Stations - Historical
-898,sandbox tuning
-611,San Francisco - Aircraft Parking Location Inventory
-546,San Francisco - MTA Projects - Points
-887,Test json data
-896,external api data
-870,Test data Tuning
-1050,San Francisco - Muni Simple Routes
-944,Test Dataset xlsx
-905,San Francisco Development Pipeline 2020 Q1
-872,Test Private Dataset csv
-1006,San Francisco - 2013 Customer Survey
-967,file name japan_71d5a127-689d-4d37-a176-8bce9167e069
-559,San Francisco - 2018 Customer Survey
-911,Test Dataset csv
-873,Test Private Dataset csv
-977,Hookup Dataset with Cache
-952,San Francisco - DPW Maintained Roadway Structures
-938,response data_01becd4d-3908-4aeb-93c3-1621f24b8cac
-901,a new data
-874,Test Private Dataset csv
-571,San Francisco -  Ground Transport Day Permits
-1051,San Francisco - Transit Only Lanes
-924,San Francisco COVID-19 Hospitalizations
-994,San Francisco - Bicycle Greenwave Streets
-947,Test Private Dataset geojson
-663,Chicago - Speed Camera Locations
-939,Test Dataset csv
-987,b
-966,file name japan_7e0b092a-73c5-41fd-bb69-a0f41dbedb40
-948,Dataset_2020-09-19
-1024,borderwait created data
-1052,San Francisco - Speed Limits
-455,San Francisco - Muni Stops
-995,San Francisco - MTA Bikeway Network
-604,San Francisco - MTA Bikeway Network Point Features
-482,Residential parking permit eligibility parcels
-968,file name japan_71d5a127-689d-4d37-a176-8bce9167e069
-959,as
-705,BIKETOWN Station Information
-972,a new data
-541,San Francisco - Accessible Curb (Blue Zone)
-609,San Francisco - Traffic Circles
-979,Test Dataset TSV
-678,Chicago - Ridership - 'L' Station Entries - Monthly Day-Type Averages & Totals
-978,Test Private Dataset csv
-1017,Taxi Trips - 2014 reup
-963,a supe
-964,a supe
-965,a supe
-679,Chicago - List of Fare Media Sales Outlets (deprecated August 2014)
-1025,intersection data created
-1053,San Francisco - Rush Hour Routes
-548,San Francisco - Nighttime Power Runups
-1003,San Francisco - On-street Parking based on Parking Census
-677,Chicago Traffic Tracker - Historical Congestion Estimates by Segment - 2011-2018
-539,Commuter Shuttle Stops
-1018,Chicago Traffic Tracker - Congestion Estimates by Segments
-1004,San Francisco - Muni Simple Routes
-682,Chicago - Red Light Camera Locations
-1057,SFMTA Projects - Lines
-621,Chicago - Average Daily Traffic Counts
-688,Chicago - Divvy Bicycle Stations - In Service
-1031,Test Dataset xlsx
-461,On-street Parking based on Parking Census
-1020,Chicago - Bike Routes (Deprecated February 2020)
-549,San Francisco - Crossing Guard Intersections
-685,Chicago - System Information - Bus Stop Locations in Digital Sign Project
-988,without https
-996,SFMTA Projects - Polygons
-1029,Test Private Dataset csv
-605,San Francisco - Painted Safety Zones
-1019,a
-1028,Hookup Dataset with Cache
-1054,San Francisco - Bicycle Greenwave Streets
-1055,San Francisco - Parking regulations (except non-metered color curb)
-1041,c
-666,Chicago Traffic Tracker - Congestion Estimates by Segments
-668,Chicago - Ridership - Daily Boarding Totals
-686,Chicago - Public Right-of-Way Use Permits - Parades
-692,"Chicago - Performance - Bus Runs Held Due to Absenteeism (2011, Jan-Aug)"
-691,Chicago - Potholes Patched
-689,Chicago - Transportation Department Permits - Current and Future
-540,Blockfaces
-1026,Test Dataset csv
-1000,San Francisco - Rush Hour Routes
-1032,Test Dataset json
-999,San Francisco - Block Faces
-1016,Taxi Trips - 2014 reup
-985,a
-1030,Test Dataset TSV
-1001,San Francisco - Speed Limits
-1034,Test Private Dataset geojson
-680,Chicago Traffic Tracker - Historical Congestion Estimates by Region - 2013-2018
-545,SFMTA Projects - Lines
-1033,Test Dataset geojson
-681,Chicago - Divvy Bicycle Stations
-1027,Hookup Dataset with No Cache
-1022,San Francisco - On-street Parking based on Parking Census
-603,San Francisco - Greenwave Bicycle Signals
-1056,SFMTA Projects - Polygons
-997,SFMTA Projects - Lines
-998,Parking Management Districts
-1058,Parking Management Districts
-1059,Chicago - Taxi Trips
-1061,Chicago - Taxi Trips 2020
-1063,Chicago - Taxi Trips 2013
-1064,Chicago - Taxi Trips 2017
-1062,Chicago - Taxi Trips 2016
-1060,Chicago - Taxi Trips 2019
-1065,Chicago - Taxi Trips 2018
-480,San Francisco - Motorcycle Parking Unmetered
-544,San Francisco - Clearance Heights
-1067,Chicago - Taxi Trips 2014
-473,San Francisco - [Testing] MTA - Enforced Temporary Tow Zones
-547,San Francisco - Crossing Guards Schools
-1068,Chicago - Transportation Network Providers - Trips 2020
+duid,name,category_name
+415,BIKETOWN Station Status,transportation
+437,San Antonio  Data (No State Attributes),transportation
+1039,c,other
+553,Air Traffic Cargo Statistics,transportation
+627,244 issue,other
+530,dataset for testing,other
+785,Taxi Trips 2015,TRANSPORTATION
+734,Name of Dataset,None
+735,Name of Dataset,TRANSPORTATION
+513,Dataset_2020-08-17,other
+767,Test Dataset xlsx,other
+786,Test,TRANSPORTATION
+655,cache data 238,other
+443,a new data,other
+179,Free Open Data (Singapore SpeedBand),ras
+501,hook api data,None
+555,Aircraft Noise Complaint Data,transportation
+367,Greenwave Bicycle Signals,transportation
+733,hook api data,other
+510,Test data,None
+789,Test,TRANSPORTATION
+502,countries geojson  data,None
+577,ap-419,other
+787,Test,TRANSPORTATION
+516,hookup data,other
+788,Test,TRANSPORTATION
+971,file name japan_90f00e27-5d0f-4f76-a529-821b01dbccb0,other
+675,Chicago - System Information - List of 'L' Stops,transportation
+1043,defining data config after url up,other
+534,Dataset_2020-08-18,other
+19,Pit Stops and Hand Washing Stations (San Francisco),safety
+744,Test Private Dataset csv,other
+532,service center matrices,other
+623,test S1,other
+1044,config change,other
+414,Dataset_2020-07-16 Gps Data,other
+531,check shceduler,other
+503,countries geojson  data,None
+526,new daase,other
+186,BicycleParkingv2,NULL
+67,TEST API PULL fuel-stations,transportation
+628,invalid rows issue,other
+624,test S2,other
+969,file name japan_71d5a127-689d-4d37-a176-8bce9167e069,other
+706,BIKETOWN Free Bike Status,transportation
+507,countries geojson  data,None
+505,a new datase,other
+508,countries geojson  data,None
+509,countries geojson  data,None
+319,GED Plus Locations,transportation
+813,Test Private Dataset geojson,other
+580,test hookup api,other
+440,San Antonio  Data (Test Zenrin),other
+930,Chicago - Taxi Trips 2013,transportation
+759,Dataset_2020-09-03,other
+533,Dataset_2020-08-18,other
+535,Dataset NoCache,other
+601,large dataset,other
+209,GPS2,transportation
+208,GPS,transportation
+519,no cache data,other
+687,E-Scooter Trips - 2019 Pilot,transportation
+602,403 data,other
+741,Test data upload,other
+506,countries geojson  data,None
+970,file name japan_71d5a127-689d-4d37-a176-8bce9167e069,other
+849,Dataset_2020-08-28,other
+517,hook up data cache,other
+581,dataset sample,other
+600,chec dataset,other
+931,Dataset_2020-09-18,other
+520,ap-418,other
+521,Dataset_2020-08-17,other
+477,Aircraft Parking Location Inventory at SFO,transportation
+269,Australia Sales,other
+567,San Francisco - 2010 Customer Survey,transportation
+511,countries geojson  data,None
+149,Free open data (Visible to SilentNoise) - Private,other
+569,Painted Safety Zones,transportation
+512,geojson data set,other
+536,test d34,other
+551,"San Francisco - Screening Checkpoint Satisfaction May, 2019",transportation
+742,Demo Tokio Marine Tesla Quote,other
+598,loom dataset,other
+806,Hookup Dataset with No Cache,other
+981,Test Dataset json,other
+715,drag and drop,other
+264,ci/cd test TU,other
+267,Canada_Sales,other
+266,Flight Data_After,other
+265,Flight Dataset_Before,other
+589,Test Dataset csv,other
+958,file name japan_7e0b092a-73c5-41fd-bb69-a0f41dbedb40,other
+582,Dataset_2020-08-19,other
+274,Tokyo Metro Hibiya Facilities,transportation
+823,Test Private Dataset geojson,other
+989,Dataset_2020-09-25,other
+560,SFO Ground Transport Trip Counts By Month and Permit Type,transportation
+919,Test Private Dataset geojson,other
+390,forecasting dataset of NOAA,ean
+630,Test Dataset csv,other
+583,no cache new dataset,other
+537,external api data,other
+960,a supe,None
+728,Dataset_2020-08-31,other
+801,Tokyo DOCOMO,other
+371,Vehicle Restrictions,transportation
+527,incremental dataset,other
+538,no cache data,other
+593,Test Dataset geojson,other
+591,Test Dataset xlsx,other
+631,Hookup Dataset with No Cache,other
+829,Test Private Dataset csv,other
+622,smoke test 3,other
+608,San Francisco - Ground Transport Trip Counts By Month and Permit Type,transportation
+632,Hookup Dataset with Cache,other
+920,geojson data,other
+590,Test Dataset TSV,other
+729,negative data sign,other
+523,Test data,None
+363,DBI Plumbing Inspection Division Districts,safety
+633,Test Dataset csv,other
+634,Hookup Dataset with No Cache,other
+635,Hookup Dataset with Cache,other
+637,Hookup Dataset with No Cache,other
+148,Free open data (Visible to SilentNoise) - NonPrivate,other
+592,Test Dataset json,other
+356,Vision Zero Base Report,transportation
+638,Hookup Dataset with Cache,other
+640,Test Dataset TSV,other
+641,Test Dataset xlsx,other
+642,Test Dataset json,other
+643,Test Dataset geojson,other
+644,Test Private Dataset geojson,other
+639,Test Private Dataset csv,other
+584,scheduler data,other
+354,NYC Parks Monuments,ean
+353,"New York City Population by Borough, 2010- 2040",other
+945,Test Dataset json,other
+278,Odakyu Shinjuku Facilities,transportation
+636,Test Dataset csv,other
+768,Test Dataset json,other
+915,Test Dataset TSV,other
+146,Free open data (Not visible to anyone) - Private,other
+943,Test Dataset TSV,other
+334,2018 Yellow Taxi Trip Data,ras
+333,016 Green Taxi Trip Data,transportation
+646,Hookup Dataset with No Cache,other
+760,text dataset,other
+330,2009 Yellow Taxi Trip Data,transportation
+327,DCLA Cultural Institutions Group Funding,ean
+916,Test Dataset xlsx,other
+525,Update the existing dataset,other
+448,2013 SFO Customer Survey,transportation
+912,Hookup Dataset with No Cache,other
+323,Water Consumption In The New York City,ean
+320,In-Service Alarm Box Locations,safety
+1012,Test Dataset xlsx,other
+156,Free open data (Public) - Private Access,other
+557,San Francisco - 2017 Customer Survey,transportation
+318,Center & Service Locations,other
+550,SFMTA Projects - Polygons,transportation
+1069,Chicago - Transportation Network Providers - Trips 2019,transportation
+982,Test Dataset geojson,other
+585,test 6 no cache demo,other
+222,Parking Meters (US Cities),NULL
+561,Stop Signs,transportation
+661,Chicago - Relocated Vehicles,transportation
+343,Civil Service List Certification,transportation
+984,cache data,other
+656,test 1.1 cache,other
+1040,a,other
+586,test D6,other
+301,Parks Trails,ean
+975,Test Dataset csv,other
+951,San Francisco - DPW Maintained Roadway Structures,ras
+649,Test Dataset TSV,other
+980,Test Dataset xlsx,other
+714,SF Accident Data,other
+629,Test 1,other
+674,url data,other
+556,San Francisco - Bicycle Parking,transportation
+707,standard dataset,other
+563,SFMTA Bikeway Network,transportation
+587,Test D6 PK,other
+811,Test Dataset json,other
+651,Test Dataset json,other
+594,Smoke Test_1 data,None
+283,NYPD Complaint Data Historic,safety
+281,Medallion Drivers - Active,other
+886,hook data with cache,other
+595,Test Dataset 7,other
+976,Hookup Dataset with No Cache,other
+196,Car Accidents (US Cities),safety
+776,Test Dataset xlsx,other
+382,Earlwood_Air_Data_17_18,ean
+486,San Francisco - MTA Managed Off-street Parking,transportation
+198,Pollutant Standards Index (PSI),other
+596,hook up data,other
+625,smoke 6,other
+614,San Fracisco - Meter Inventory,transportation
+616,Chicago - Street Names,transportation
+652,Test Dataset geojson,other
+324,2015 Street Tree Census - Tree Data,ean
+268,Germany Sales,other
+469,Bike Volume - Manual Counts,transportation
+468,Bike Volume - Manual Counts,transportation
+529,scheduler dataset,other
+626,lat long,other
+1042,locked api,other
+467,Bike Volume - Manual Counts,transportation
+312,Intercity Bus Stop Permits,transportation
+465,Bike Volume - Manual Counts,transportation
+464,Bike Volume - Manual Counts,transportation
+463,Bike Volume - Manual Counts,transportation
+462,Bike Volume - Manual Counts,transportation
+983,Test Private Dataset geojson,other
+352,taxi data + parking data,NULL
+562,Stop Signs,transportation
+650,Test Dataset xlsx,other
+157,Free open data (Visible to none) - Obsolete,other
+940,Hookup Dataset with No Cache,other
+504,Sandbox Regression,other
+917,Test Dataset json,other
+518,A new service data,other
+307,ServiceCentreMetrics ,transportation
+773,Hookup Dataset with Cache,other
+365,Form 700 comments,ean
+321,New York City Locations Providing Seasonal Flu Vaccinations,safety
+8,"EV Charging Stations (Connecticut, USA)",energy
+385,atlas2013_dadosbrutos_pt com lat long e altura,other
+444,San Francisco - Air Traffic Passenger Statistics,transportation
+766,Test Dataset TSV,other
+653,Test Private Dataset geojson,other
+128,Tokyo Bus Station,transportation
+597,test 6,other
+313,Highway Travel Permit- Single Use,transportation
+588,dataset no cache no primary,other
+903,San Francisco Police Department (SFPD) Incidents Reports,safety
+481,Equity Strategy Neighborhoods,transportation
+476,Speed Limits,transportation
+524,Dataset 6,other
+445,San Francisco - Air Traffic Landings Statistics,transportation
+344,New York  Data,other
+676,Chicago - Ridership - Annual Boarding Totals,transportation
+364,ESNCAG - Boundary File,other
+853,Taxi Trips 2015,TRANSPORTATION
+378,Streets – Active and Retired,ras
+3,San Francisco Traffic Lights,ras
+599,csv standard data,other
+374,Fire Violations,safety
+370,Parks Alliance CPSI (27 sites),ean
+369,Traffic Circles,ras
+558,San Francisco - 2012 Customer Survey,transportation
+235,Verify BicycleParking,NULL
+824,BorderWaitTimes,other
+918,Test Dataset geojson,other
+854,Taxi Trips 2015 NOT READY,transportation
+368,Assets Maintained by the Recreation and Parks Department,ean
+362,DBI Electrical Inspection Division Districts,energy
+648,Test Private Dataset csv,other
+360,"SFO Screening Checkpoint Satisfaction October, 2019",transportation
+225,Pollutant Standards Index (PSI),NULL
+224,BicycleParkingv2,NULL
+221,BicycleParkingv2,NULL
+220,BicycleParkingv2,NULL
+217,BicycleParkingv2,NULL
+961,a supe,None
+359,Hayward M7.0 Earthquake Scenario,safety
+215,BicycleParkingv2,NULL
+214,BicycleParkingv2,NULL
+213,BicycleParkingv2,NULL
+207,BicycleParkingv2,NULL
+206,BicycleParkingv2,NULL
+205,BicycleParkingv2,NULL
+204,BicycleParkingv2,NULL
+203,Air Temperature across Singapore,NULL
+202,Relative Humidity across Singapore,NULL
+187,TEST Speedband,NULL
+817,Hookup Dataset with Cache,other
+361,MTA Fuel Usage,transportation
+200,Rainfall across Singapore,NULL
+357,Vision Zero Base Report,transportation
+1070,Chicago - Transportation Network Providers - Trips 2018,transportation
+805,Test Dataset csv,other
+736,Test,transportation
+484,Traffic Circles,transportation
+355,DOB NOW: Electrical Permit Applications,energy
+351,yellow and green taxi data,NULL
+763,Hookup Dataset with No Cache,other
+645,Test Dataset csv,other
+779,Test Private Dataset geojson,other
+833,Test Dataset geojson,other
+350,Parking Violations Issued - Fiscal Year 2020,ean
+346,Motor Vehicle Collisions - Crashes,transportation
+279,LADOT Parking Meter Occupancy (Real Time),ras
+438,San Antonio Ref Markers,ras
+514,Dataset_2020-08-17,other
+832,Test Dataset json,other
+724,Dataset_2020-08-29,other
+259,This is sparta,other
+258,This is wonderful begining,other
+169,Reupload SFPD 2019 Incidents,other
+716,Sample Driving Trip 2019-11-27,transportation
+777,Test Dataset json,other
+615,San Francisco - Meter Policies,transportation
+647,Hookup Dataset with Cache,other
+578,Test Ingestion,other
+145,Free open data (Not visible to anyone) - NonPrivate,other
+568,SFO Permitted Ground Transport Companies,transportation
+703,Dataset_2020-08-25,other
+699,Dataset_2020-08-24,other
+774,Test Private Dataset csv,other
+570,SFMTA Bikeway Network Point Features,transportation
+325,Energy and Water Data Disclosure for Local Law 84 2018 Environment,energy
+303,Los Angeles International Airport (LAX) - Closures,transportation
+574,Test2,transportation
+573,Test,transportation
+522,scheduler json data,other
+657,Truck parking locations (Geotab),transportation
+830,Test Dataset TSV,other
+302,2016 Green Taxi Trip Data,transportation
+317,Open Streets Locations,ras
+708,Dataset_2020-08-26,other
+658,Test Dataset AP-430,other
+607,San Francisco - Stop Signs,transportation
+376,Pit Stop Locations,safety
+314,LA City Events,safety
+659,Cell Coverage Dark Spots (Geotab),other
+572,Greenwave Bicycle Signals,transportation
+345,Earthquake in Turkey,ean
+304,Historical Medallion Drivers – Passenger Assistance Trained 2018,transportation
+528,check scheduler,other
+300,2016 Green Taxi Trip Data,transportation
+299,Real-Time Traffic Speed Data,ras
+612,Parking regulations (except non-metered color curb),transportation
+166,TEST WITHOUT FORMAT,NULL
+298,TLC New Driver Application Status,ras
+297,Transportation Sites,ras
+474,Parking regulations (except non-metered color curb),transportation
+575,Test2,transportation
+576,test,transportation
+296,Performance Metrics - Transportation - Pothole Repair,transportation
+564,San Francisco - Air Traffic Cargo Statistics,transportation
+446,2011 SFO Customer Survey,transportation
+828,Hookup Dataset with Cache,other
+161,Free open data (Public) - Obsolete,other
+162,Open Data (Public),other
+771,Test Dataset csv,other
+439,Test Upload,other
+436,Test upload,other
+435,Dataset_2020-08-06 try,other
+470,Meter Policies,transportation
+295,Transportation Network Providers - Trips,transportation
+294,"Current Employee Names, Salaries, and Position Titles",other
+804,hook data every ingestion,other
+953,Taxi Trips - 2015 reup,TRANSPORTATION
+275,Tokyo Metro Ginza Facilities,transportation
+293,Housing Inventories 2005 to 2018,safety
+292,City Facilities,safety
+973,BorderWaitTimes new ,other
+229,Rainfall across Singapore,NULL
+277,Keikyu Shinagawa Facilities,transportation
+276,Tokyo Metro Higashiginza Facilities,transportation
+291,San Francisco Plant Finder Data,ean
+290,Existing Buildings Energy Performance Ordinance Report,energy
+228,Taxi Availability,NULL
+273,Toei Otemachi Facilities,transportation
+272,Tobu Ikebukuro Facilities,transportation
+271,Tokyo Metro Shinjuku Facilities,transportation
+150,Free open data (Public) - Open License,transportation
+239,Pollutant Standards Index (PSI),NULL
+238,Air Temperature across Singapore,NULL
+236,TrafficSpeedBandsv2,NULL
+234,Verify TrafficSpeedBands,NULL
+233,Carpark Availability,NULL
+237,Relative Humidity across Singapore,NULL
+232,Pollutant Standards Index (PSI),NULL
+231,Air Temperature across Singapore,NULL
+230,Relative Humidity across Singapore,NULL
+227,TrafficSpeedBandsv2,NULL
+226,BicycleParkingv2,NULL
+223,TrafficSpeedBandsv2,NULL
+216,TrafficSpeedBandsv2,NULL
+199,Pollutant Standards Index (PSI),NULL
+190,Pollutant Standards Index (PSI),NULL
+189,BicycleParkingv2,NULL
+928,Dataset_2020-09-18,other
+178,TEST NEW FORMAT,NULL
+177,TEST NEW FORMAT,NULL
+176,TEST NEW FORMAT,NULL
+172,TEST NEW FORMAT,NULL
+171,TEST NEW FORMAT,NULL
+739,Dataset_2020-09-01,other
+579,primary key,other
+778,Test Dataset geojson,other
+158,Free open data (Visible to SilentNoise) - Obsolete,other
+775,Test Dataset TSV,other
+289,"Energy Benchmarking, San Francisco Municipal Buildings",energy
+483,Bicycle Greenwave Streets,transportation
+288,Registered Business Locations - San Francisco,other
+845,check tuning,other
+704,Dataset_2020-08-25,other
+847,Testing Deployment,other
+907,"San Francisco Stormwater inlets, drains and catch basins",other
+287,Traffic Volume Counts (2012-2013),other
+284,Water Consumption In The New York City,other
+282,Street Hail Livery (SHL) Drivers,other
+328,Intersection Metrics,transportation
+315,LinkNYC Locations,safety
+387,austin_bikeshare_stations,transportation
+909,California - Precipitation,ean
+311,IntersectionMetrics,transportation
+772,Hookup Dataset with No Cache,other
+306,FuelStationMetrics,transportation
+515,Dataset_2020-08-17,other
+322,Capacity Project Site Location,ean
+846,sample_data,other
+375,Aircraft Noise Complaint Data,transportation
+366,Crossing Guard Intersections,transportation
+332,BorderWaitTimes,transportation
+326,Value of Energy Cost Savings Program Savings for Businesses - FY2019,energy
+316,Directory Of Homebase Locations,other
+308,TruckParkingLocations,transportation
+310,HazardousDrivingAreas,transportation
+309,CellCoverageDarkSpots,transportation
+305,BorderWaitTimes,transportation
+827,Hookup Dataset with No Cache,other
+654,csv data,None
+1013,Test Dataset json,other
+780,csv datad,other
+673,Chicago - Transportation Department Permits - Street Closures,transportation
+807,Hookup Dataset with Cache,other
+954,Taxi Trips - 2014 reup,TRANSPORTATION
+709,Dataset_2020-08-26,other
+731,sample_data,other
+1035,b,other
+781,Dataset_2020-09-03,other
+701,Dataset_2020-08-25,other
+848,Test data,other
+992,a,other
+1021,San Francisco - Block Faces,ras
+730,Remove invalid,other
+613,San Francisco - [Testing] MTA Enforced Temporary Tow Zones,transportation
+690,Chicago - Performance - Unscheduled Days Off,transportation
+670,Chicago - Bike Racks,transportation
+389,FourSquare - NYC and Tokyo Check-ins,other
+422,Street Incidents in SF,other
+471,San Francisco - Air Carrier Runway Use,transportation
+743,Dataset_2020-09-01,other
+808,Test Private Dataset csv,other
+1045,250+MB data,other
+754,Test Private Dataset geojson,other
+737,test,other
+384,air-quality-monitoring-sites-summary,ean
+782,Dataset_2020-09-03,other
+702,Test Data Upload,other
+752,Test Dataset json,other
+710,Dataset_2020-08-27,other
+921,San Francisco - City Congestion,ras
+719,Test data,None
+749,Test Private Dataset csv,other
+783,test,other
+923,Dataset_2020-09-18,other
+451,San Francisco - Gate and Stand Assignment Information,transportation
+711,288 geospatial dataset,other
+1010,Test Private Dataset csv,other
+565,San Francisco - Aircraft Noise Complaint Data,transportation
+697,geojson data,other
+1015,Test Private Dataset geojson,other
+790,Accident Data,other
+698,Dataset_2020-08-24,other
+812,Test Dataset geojson,other
+696,zip file data,other
+1005,San Francisco - Parking Meters,ras
+452,San Francisco - Metered motorcycle spaces,transportation
+825,Dataset_2020-09-09,other
+664,Chicago - Parking Permit Zones,transportation
+1046,190+MB,other
+684,Divvy Bicycle Stations - Historical,transportation
+620,Chicago - Red Light Camera Violations,transportation
+700,JR East Train Information,transportation
+453,San Francisco - MTA-Enforced Temporary Tow Zones,transportation
+720,Dataset_2020-08-28,other
+717,Dataset_2020-08-28,other
+726,test,other
+721,Dataset_2020-08-28,other
+732,test,other
+926,San Francisco COVID-19 Cases and Deaths Summarized by Geography,safety
+383,LADOT Parking Meter Occupancy (Historical),ras
+1036,b,other
+487,San Francisco - Airport Monthly Utility Usage And Revenue,transportation
+219,CAL FIRE,ean
+727,data tuning,other
+843,Test Dataset geojson,other
+856,Transportation Network Providers - Drivers,transportation
+566,San Francisco - Travel Decision Survey 2019,transportation
+748,Hookup Dataset with Cache,other
+712,sample,other
+722,remove invalid data standard,other
+713,hook data,other
+858,Dig Ticket Notifications,TRANSPORTATION
+723,Current Wildfire Incidents (USA),ean
+746,Test Dataset csv,other
+753,Test Dataset geojson,other
+844,Test Private Dataset geojson,other
+755,Taxi Trips 2015,transportation
+761,marketplace data,other
+902,Dataset_2020-09-16,other
+826,Test Dataset csv,other
+718,testSandbox,other
+922,US West 9 - Commercial Traffic Analysis,transportation
+80,Alternative Fuel Stations,ean
+809,Test Dataset TSV,other
+1047,515k 230MB data,other
+745,Test Private Dataset geojson,other
+751,Test Dataset xlsx,other
+617,Chicago - Towed Vehicles,transportation
+956,borderWait dat,other
+750,Test Dataset TSV,other
+814,BorderWaitTimes,other
+747,Hookup Dataset with No Cache,other
+791,Dataset_2020-09-04,other
+669,Chicago Traffic Tracker - Congestion Estimates by Regions,transportation
+740,Dataset_2020-09-01,other
+816,Hookup Dataset with No Cache,other
+447,San Francisco - Meter Operating Schedules,transportation
+794,Dataset_2020-09-04,other
+764,Hookup Dataset with Cache,other
+839,Test Private Dataset csv,other
+1007,Test Dataset csv,other
+1014,Test Dataset geojson,other
+819,Test Dataset TSV,other
+820,Test Dataset xlsx,other
+821,Test Dataset json,other
+913,Hookup Dataset with Cache,other
+815,Test Dataset csv,other
+795,override data,other
+818,Test Private Dataset csv,other
+842,Test Dataset json,other
+899,Dataset_2020-09-16,other
+769,Test Dataset geojson,other
+793,Dataset_2020-09-04,other
+1011,Test Dataset TSV,other
+454,San Francisco - Parking Meters,transportation
+1009,Hookup Dataset with Cache,other
+765,Test Private Dataset csv,other
+836,Test Dataset csv,other
+875,Dataset_2020-09-14,other
+851,Taxi Trips 2015,transportation
+859,Dig Ticket Notifications,transportation
+762,Test Dataset csv,other
+672,Chicago - Ridership - Avg. Weekday Bus Stop Boardings in October 2012,transportation
+693,Chicago - Transportation Department Permits - Block Party - Current and Future,transportation
+796,Dataset_2020-09-04,other
+725,CAL FIRE Incidents (Daily Update),ean
+1002,San Francisco - Transit Only Lanes,transportation
+957,file name_02370402-7d66-41d0-b7c6-43f54de22a7f,other
+1008,Hookup Dataset with No Cache,other
+784,upload data,other
+738,Dataset_2020-09-01,other
+876,response data,None
+810,Test Dataset xlsx,other
+932,a new datat,other
+671,Chicago - Traffic Crashes - Vehicles,transportation
+802,hook data,other
+770,Test Private Dataset geojson,other
+822,Test Dataset geojson,other
+878,Hookup Dataset with No Cache,other
+756,Test PULL BIG,other
+797,Dataset_2020-09-04,other
+914,Test Private Dataset csv,other
+881,Test Dataset TSV,other
+662,Chicago - Speed Camera Violations,transportation
+757,Street Incidents in SF,other
+479,San Francisco - On-street Carshare Parking,transportation
+799,SF Electricity,other
+852,Taxi Trips 2015,TRANSPORTATION
+758,Dataset_2020-09-03,other
+798,Dataset_2020-09-04,other
+466,San Francisco - Bike Volume Manual Counts,transportation
+800,test,other
+910,California - Temperature,ean
+803,new data hook data,other
+683,Chicago - Ridership - Bus Routes - Monthly Day-Type Averages & Totals,transportation
+990,Traffic Dataset,other
+450,JR East Train status information,transportation
+927,San Francisco COVID-19 Testing Locations,safety
+929,US West 9 - Commercial Traffic Analysis,ras
+834,Test Private Dataset geojson,other
+667,Chicago - Ridership - Bus Routes - Daily Totals by Route,transportation
+841,Test Dataset xlsx,other
+840,Test Dataset TSV,other
+838,Hookup Dataset with Cache,other
+837,Hookup Dataset with No Cache,other
+955,Dataset_2020-09-21,other
+831,Test Dataset xlsx,other
+883,Test Dataset json,other
+606,San Francisco - Permitted Ground Transport Companies,transportation
+835,test this dataset,other
+860,Taxi Trips - 2013,transportation
+543,Parking Management Districts,transportation
+478,Rush Hour Routes,transportation
+1048,San Francisco - On-street Parking based on Parking Census,ras
+4,SFPD Incidents Reports 2019,safety
+861,Dataset_2020-09-04,other
+25,COVID-19 (2019-nCoV) Data,safety
+864,Dataset_2020-09-04,other
+882,Test Dataset xlsx,other
+863,Dataset_2020-09-04,other
+933,Dataset_2020-09-19,other
+880,Test Private Dataset csv,other
+81,Daily precipitation in Japan,ean
+280,Station information of JR East,transportation
+472,Meter Inventory,transportation
+974,new data,other
+884,Test Dataset geojson,other
+792,Dataset_2020-09-04,other
+993,San Francisco - Parking regulations (except non-metered color curb),ras
+935,file name_02370402-7d66-41d0-b7c6-43f54de22a7f,other
+1049,San Francisco - Block Faces,transportation
+475,Transit Only Lanes,transportation
+934,file name_02370402-7d66-41d0-b7c6-43f54de22a7f,other
+862,Dataset_2020-09-04,other
+946,Test Dataset geojson,other
+936,Japan data_422b108e-852c-49cc-9776-5b86676b5982,other
+865,a new daa,other
+950,Dataset_2020-09-19,other
+665,Chicago - Roadway Construction Moratoriums,transportation
+866,hook api data,None
+618,Chicago- List of CTA Datasets,transportation
+925,San Francisco COVID-19 Tests,safety
+1037,Test Dataset csv,other
+857,Transportation Network Providers - Vehicles,transportation
+879,Hookup Dataset with Cache,other
+937,Test data_848e069f-2e44-4675-8282-1f167ffee0ae,other
+991,Road Object,other
+888,a new dataset,other
+877,Test Dataset csv,other
+867,hook api data,None
+889,a new dataset,other
+890,a new dataset,other
+485,San Francisco - Bicycle Loop Counters,transportation
+1038,hook up no cache,other
+891,a new dataset,other
+459,San Francisco - Traffic Signals,transportation
+892,a new dataset,other
+986,Dataset_2020-09-24,other
+449,San Francisco - Meter Rate Schedules,transportation
+1066,Chicago - Taxi Trips 2015,transportation
+456,Muni Simple Routes,transportation
+893,a new dataset,other
+894,a new dataset,other
+885,Test Private Dataset geojson,other
+897,sandbox tuning,other
+694,Chicago - Dig Tickets,transportation
+949,Chicago - Taxi Trips - 2013,transportation
+542,San Fracisco - Aircraft Parking Activity Records,transportation
+850,None,other
+619,Chicago - Public Right-of-Way Use Permits - Historical,transportation
+457,San Francisco - Noise Exceedance Rating,transportation
+908,California - Cell Coverage Dark Spots,other
+1023,Test data explore,other
+458,San Francisco - Muni Driver Reported Transit Only Lane Violations,transportation
+695,Bike Routes (Deprecated February 2020),transportation
+895,Drag and drop,other
+906,San Francisco Street Tree List,ean
+660,Chicago - Ridership - 'L' Station Entries - Daily Totals,transportation
+941,Hookup Dataset with Cache,other
+900,Drag data,other
+962,a supe,None
+460,San Francisco - Late Night Preferential Runway Use,transportation
+552,San Francisco - MTA Fuel Usage,transportation
+868,Test data Tuning,None
+904,San Francisco Building Permits,ras
+869,Test Private Dataset geojson,other
+871,Test Private Dataset geojson,other
+942,Test Private Dataset csv,other
+610,Bicycle Greenwave Streets,transportation
+554,San Francisco - 2011 Customer Survey,transportation
+855,Divvy Bicycle Stations - Historical,transportation
+898,sandbox tuning,other
+611,San Francisco - Aircraft Parking Location Inventory,transportation
+546,San Francisco - MTA Projects - Points,transportation
+887,Test json data,None
+896,external api data,other
+870,Test data Tuning,other
+1050,San Francisco - Muni Simple Routes,transportation
+944,Test Dataset xlsx,other
+905,San Francisco Development Pipeline 2020 Q1,ras
+872,Test Private Dataset csv,other
+1006,San Francisco - 2013 Customer Survey,other
+967,file name japan_71d5a127-689d-4d37-a176-8bce9167e069,other
+559,San Francisco - 2018 Customer Survey,transportation
+911,Test Dataset csv,other
+873,Test Private Dataset csv,other
+977,Hookup Dataset with Cache,other
+952,San Francisco - DPW Maintained Roadway Structures,ras
+938,response data_01becd4d-3908-4aeb-93c3-1621f24b8cac,other
+901,a new data,other
+874,Test Private Dataset csv,other
+571,San Francisco -  Ground Transport Day Permits,transportation
+1051,San Francisco - Transit Only Lanes,transportation
+924,San Francisco COVID-19 Hospitalizations,safety
+994,San Francisco - Bicycle Greenwave Streets,transportation
+947,Test Private Dataset geojson,other
+663,Chicago - Speed Camera Locations,transportation
+939,Test Dataset csv,other
+987,b,other
+966,file name japan_7e0b092a-73c5-41fd-bb69-a0f41dbedb40,other
+948,Dataset_2020-09-19,other
+1024,borderwait created data,other
+1052,San Francisco - Speed Limits,ras
+455,San Francisco - Muni Stops,transportation
+995,San Francisco - MTA Bikeway Network,transportation
+604,San Francisco - MTA Bikeway Network Point Features,transportation
+482,Residential parking permit eligibility parcels,transportation
+968,file name japan_71d5a127-689d-4d37-a176-8bce9167e069,other
+959,as,None
+705,BIKETOWN Station Information,transportation
+972,a new data,other
+541,San Francisco - Accessible Curb (Blue Zone),transportation
+609,San Francisco - Traffic Circles,transportation
+979,Test Dataset TSV,other
+678,Chicago - Ridership - 'L' Station Entries - Monthly Day-Type Averages & Totals,transportation
+978,Test Private Dataset csv,other
+1017,Taxi Trips - 2014 reup,TRANSPORTATION
+963,a supe,None
+964,a supe,None
+965,a supe,None
+679,Chicago - List of Fare Media Sales Outlets (deprecated August 2014),transportation
+1025,intersection data created,other
+1053,San Francisco - Rush Hour Routes,transportation
+548,San Francisco - Nighttime Power Runups,transportation
+1003,San Francisco - On-street Parking based on Parking Census,transportation
+677,Chicago Traffic Tracker - Historical Congestion Estimates by Segment - 2011-2018,transportation
+539,Commuter Shuttle Stops,transportation
+1018,Chicago Traffic Tracker - Congestion Estimates by Segments,transportation
+1004,San Francisco - Muni Simple Routes,transportation
+682,Chicago - Red Light Camera Locations,transportation
+1057,SFMTA Projects - Lines,transportation
+621,Chicago - Average Daily Traffic Counts,transportation
+688,Chicago - Divvy Bicycle Stations - In Service,transportation
+1031,Test Dataset xlsx,other
+461,On-street Parking based on Parking Census,transportation
+1020,Chicago - Bike Routes (Deprecated February 2020),transportation
+549,San Francisco - Crossing Guard Intersections,transportation
+685,Chicago - System Information - Bus Stop Locations in Digital Sign Project,transportation
+988,without https,other
+996,SFMTA Projects - Polygons,ras
+1029,Test Private Dataset csv,other
+605,San Francisco - Painted Safety Zones,transportation
+1019,a,other
+1028,Hookup Dataset with Cache,other
+1054,San Francisco - Bicycle Greenwave Streets,transportation
+1055,San Francisco - Parking regulations (except non-metered color curb),ras
+1041,c,other
+666,Chicago Traffic Tracker - Congestion Estimates by Segments,transportation
+668,Chicago - Ridership - Daily Boarding Totals,transportation
+686,Chicago - Public Right-of-Way Use Permits - Parades,transportation
+692,"Chicago - Performance - Bus Runs Held Due to Absenteeism (2011, Jan-Aug)",transportation
+691,Chicago - Potholes Patched,transportation
+689,Chicago - Transportation Department Permits - Current and Future,transportation
+540,Blockfaces,transportation
+1026,Test Dataset csv,other
+1000,San Francisco - Rush Hour Routes,transportation
+1032,Test Dataset json,other
+999,San Francisco - Block Faces,ras
+1016,Taxi Trips - 2014 reup,TRANSPORTATION
+985,a,other
+1030,Test Dataset TSV,other
+1001,San Francisco - Speed Limits,transportation
+1034,Test Private Dataset geojson,other
+680,Chicago Traffic Tracker - Historical Congestion Estimates by Region - 2013-2018,transportation
+545,SFMTA Projects - Lines,transportation
+1033,Test Dataset geojson,other
+681,Chicago - Divvy Bicycle Stations,transportation
+1027,Hookup Dataset with No Cache,other
+1022,San Francisco - On-street Parking based on Parking Census,ras
+603,San Francisco - Greenwave Bicycle Signals,transportation
+1056,SFMTA Projects - Polygons,transportation
+997,SFMTA Projects - Lines,ras
+998,Parking Management Districts,ras
+1058,Parking Management Districts,transportation
+1059,Chicago - Taxi Trips,transportation
+1061,Chicago - Taxi Trips 2020,transportation
+1063,Chicago - Taxi Trips 2013,transportation
+1064,Chicago - Taxi Trips 2017,transportation
+1062,Chicago - Taxi Trips 2016,transportation
+1060,Chicago - Taxi Trips 2019,transportation
+1065,Chicago - Taxi Trips 2018,transportation
+480,San Francisco - Motorcycle Parking Unmetered,transportation
+544,San Francisco - Clearance Heights,transportation
+1067,Chicago - Taxi Trips 2014,transportation
+473,San Francisco - [Testing] MTA - Enforced Temporary Tow Zones,transportation
+547,San Francisco - Crossing Guards Schools,transportation
+1068,Chicago - Transportation Network Providers - Trips 2020,transportation
